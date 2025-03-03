@@ -42,3 +42,10 @@ main {
   border: none;
   cursor: pointer;
 }
+
+#session-status {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
